@@ -4,25 +4,22 @@ import Header from "../components/layout/Header.astro";
 import Footer from "../components/layout/Footer.astro";
 import  SpeedInsights  from "@vercel/speed-insights/astro"
 const {
-  pageTitle = "NeonMint by EFEELE 🚀",
-  description = "Welcome to NeonMint by EFEELE, where I develop software and share knowledge.",
+  pageTitle = "Portfolio by Daniel 🚀",
+  description = "Welcome to My Portfolio! Get to know me.",
   ogimage = {
     url: "/images/imagedefault.webp",
-    alt: "Default image of EFEELE",
+    alt: "Default image of the website",
   },
 } = Astro.props;
 
 const siteUrl = new URL(Astro.url).origin;
 const SEO = {
-  sitename: "NeonMint by EFEELE🚀",
+  sitename: "Portfolio by Gutrila 🚀",
   url: siteUrl,
   locale: "en_US",
-  author: "Fernando Lopez | EFEELE",
-  twitter: "@efeeledev",
+  author: "Daniel Tovar | Gutrila",
 };
 
-
-const twitterimage = `${siteUrl}${ogimage.url}`;
 ---
 
 <html
