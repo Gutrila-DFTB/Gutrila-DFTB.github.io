@@ -2,7 +2,7 @@
 layout:  /src/layouts/ProjectLayout.astro
 title: 'AnimeWebsite'
 pubDate: 2025-04-05
-description: 'AnimeWebsite, it is a responsive website developed with my team mates at college.'
+description: 'AnimeWebsite, it is a responsive website developed with my teammates at college.'
 languages: ["HTML5", "tailwind", "cloudflare", "javascript","vercel"]
 image:
   url: "/images/Animewebsite.png"
