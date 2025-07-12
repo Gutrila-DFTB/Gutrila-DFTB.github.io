@@ -1,11 +1,11 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'NeonMint'
+title: 'AnimeWebsite'
 pubDate: 2025-04-05
-description: 'NeonMint is a modern, minimalist template crafted for developers and digital creatives.'
-languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
+description: 'AnimeWebsite, it is a responsive website developed with my team mates at college.'
+languages: ["HTML5", "tailwind", "cloudflare", "javascript","vercel"]
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "/images/projects/Animewebsite.png"
   alt: "Thumbnail of Astro arches."
 --- 
 

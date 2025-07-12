@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/MarkdownAbout.astro
-title: "Daniel Tovar | My Journey in Technology and Web Development 🚀| Gutrila"
+title: "Daniel Tovar | My Portfolio 🚀| Gutrila"
 description: "Web developer, technology enthusiast, Engineer and Data Analyst. From my beginnings and ahead, here I share my journey, experiences, and learnings. 🚀☕"
 author: "Daniel Tovar"
 image:
