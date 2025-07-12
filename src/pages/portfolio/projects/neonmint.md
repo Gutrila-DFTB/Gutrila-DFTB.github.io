@@ -5,7 +5,7 @@ pubDate: 2025-04-05
 description: 'AnimeWebsite, it is a responsive website developed with my team mates at college.'
 languages: ["HTML5", "tailwind", "cloudflare", "javascript","vercel"]
 image:
-  url: "/images/projects/Animewebsite.png"
+  url: "/images/Animewebsite.png"
   alt: "Thumbnail of Astro arches."
 --- 
 
