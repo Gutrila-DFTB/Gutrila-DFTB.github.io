@@ -36,7 +36,7 @@ Developed with **HTML5** and styled with **TailwindCSS/SASS**, uploaded and hand
 
 ## 🌐 Demo
 
-👉 [View live demo](https://animewebsite-egr351iys-daniel-tovars-projects-4129737d.vercel.app/) 
+👉 [View live demo](https://animewebsite-egr351iys-daniel-tovars-projects-4129737d.vercel.app) 
 
 ## 🎯 Objective
 
