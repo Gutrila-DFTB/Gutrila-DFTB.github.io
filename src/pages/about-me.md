@@ -98,12 +98,12 @@ In 2023, **Proyecto Tizayocan** was born, an initiative that seeks to apply tech
 
 At the end of 2024, after years working in the city council as **_Software Development Coordinator_**, and seeing the technological deficiencies of some municipalities, **StellarGov** emerges, a web components framework with Tailwind to help developers of small governments create fast and quality websites.
 
-## A Bit More About Me ☕
+## A Bit More About Me 💀
 
-Today, in 2025, I continue working as **_Software Development Coordinator_** in my municipality, collaborating with my usual clients and launching projects. I love creating things, experimenting with new ideas, and organizing events. I live with the _maker_ spirit: learning, experimenting, and sometimes causing a bit of chaos. But well, everything is forgiven if there's music and coffee involved. ☕🎶
+Today, in 2025, I’m excited to start working in a field related to my background **_System Engineer/Big Data Analyst/Web developer_** any of those would be an awesome first step. In the meantime, I’m still collaborating with my current team, and my passion for learning and enjoying the process just keeps growing. I love creating things, experimenting with new ideas, and embracing that _little spirit_ of learning, exploring, and occasionally causing a bit of chaos. At the end of the day, everything feels right as long as there’s music and video games around. 🎮🎶
 
-Oh! And I'm an expert at preparing coffee. Seriously, whether it's to start the day or for a creative session, I have the perfect recipe. I'm also pretty good at board games, so if you ever need a partner for a game night, I'm your person! 🎲
+Oh! And I’m an expert at creating memes. Seriously—whenever the occasion calls for one, I’ve got the perfect template ready. Bringing laughs and smiles everywhere, so if you ever need a meme, I’m your go‑to person! 🪄
 
-I'm **Fernando Aldair López Ponce**, and I thank you for reading this.
+I'm **Daniel Felipe Tovar Bejarano**, and I do really appreciate your time for reading this.
 
 ## Let's Create Amazing Things! 🚀 
