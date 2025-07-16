@@ -36,7 +36,7 @@ For our animated border, we'll use **conic gradient**, as it allows us to create
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-green-400 dark:to-black  rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-blue-400 dark:to-black  rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl bg-transparent">
     <p class="text-white text-center font-semibold ">
@@ -46,7 +46,7 @@ For our animated border, we'll use **conic gradient**, as it allows us to create
 </div>
 ```
 
-<div class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-green-400 dark:to-black rounded-2xl p-px">
+<div class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-blue-400 dark:to-black rounded-2xl p-px">
   <div class="p-10 rounded-2xl bg-transparent">
     <p class="text-white text-center font-semibold mt-8">
       Parent container background
@@ -62,7 +62,7 @@ If we add a background to the child container, we achieve the border effect:
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-green-400 dark:to-black rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-blue-400 dark:to-black rounded-2xl p-px"
 >
   <!-- Parent container -->
   <div class="p-10 rounded-2xl dark:dark:bg-zinc-900 bg-mint-50">
@@ -74,7 +74,7 @@ If we add a background to the child container, we achieve the border effect:
 </div>
 ```
 
-<div class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-green-400 dark:to-black rounded-2xl p-px">
+<div class="w-full max-w-lg bg-conic/[from_0deg] from-white to-white dark:from-black via-blue-400 dark:to-black rounded-2xl p-px">
   <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
     <p class="text-white text-center font-semibold mt-8">
       By adding a background to the child container, we achieve the border effect 

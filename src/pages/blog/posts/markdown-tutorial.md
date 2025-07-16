@@ -6,7 +6,7 @@ description: "A comprehensive guide to Markdown syntax, covering everything from
 image:
   url: "/images/posts/markdown.webp"
   alt: "Example of animated borders with Tailwind CSS in a dark design, featuring a vibrant color gradient background."
-pubDate: 2025-07-14
+pubDate: 2025-07-16
 tags:
   [
     "documentation", "tutorial", "web-development", "content-creation", "writing"
