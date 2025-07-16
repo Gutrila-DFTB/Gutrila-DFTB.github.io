@@ -237,4 +237,4 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 
 ## Conclusion
 
-The only limit is your imagination, you should now be able to experiment with gradients and animations to get unique effects! 🎨✨ 
+The only limit is your imagination, you should now be able to experiment with gradients and animations to get unique effects! Keep up your determination!🎨✨ 
