@@ -211,11 +211,11 @@ We can also adjust the color positions, for example:
 
 ## Final Result
 
-I'll make some small adjustments, changing the from and to colors to achieve a more natural effect. Also, I'll use a 1px padding.
+I'll make some small adjustments, changing the from and to colors to achieve a more natural effect. Also, I'll use a 2px padding.
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-300/20 via-purple-500 to-purple-300/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-200/20 via-purple-500 to-purple-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-0.5"
 >
   <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
     <p class="text-white text-center font-semibold">
@@ -226,7 +226,7 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 ```
 
  <div
-      class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-300/20 via-purple-500 to-purple-300/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
+      class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-200/20 via-purple-500 to-purple-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-0.5"
     >
       <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
         <p class="text-white text-center font-semibold mt-8">
