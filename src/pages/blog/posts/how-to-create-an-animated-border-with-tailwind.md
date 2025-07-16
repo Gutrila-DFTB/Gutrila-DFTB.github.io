@@ -185,7 +185,7 @@ We can also adjust the color positions, for example:
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-purple-400 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-purple-500 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl bg-transparent">
     <p class="text-white text-center font-semibold">
@@ -198,7 +198,7 @@ We can also adjust the color positions, for example:
 ```
 
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-purple-400 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-purple-500 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl bg-transparent">
     <p class="text-white text-center font-semibold mt-8">
@@ -215,7 +215,7 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-200/20 via-purple-400 to-purple-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-300/20 via-purple-500 to-purple-300/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
     <p class="text-white text-center font-semibold">
@@ -226,7 +226,7 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 ```
 
  <div
-      class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-200/20 via-purple-400 to-purple-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
+      class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-300/20 via-purple-500 to-purple-300/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
     >
       <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
         <p class="text-white text-center font-semibold mt-8">
