@@ -4,9 +4,9 @@ title: Create an Animated Border with Tailwind CSS
 author: Daniel Tovar
 description: "Add a dynamic touch to your designs with an animated border in Tailwind CSS. Learn how to use conic-gradient and animations to achieve an impressive visual effect. 🚀✨"
 image:
-  url: "/images/posts/animated-borders-tailwind.webp"
+  url: "/images/posts/animated-borders-tailwind.png"
   alt: "Example of animated borders with Tailwind CSS in a dark design, featuring a vibrant color gradient background."
-pubDate: 2025-03-27
+pubDate: 2025-07-15
 tags:
   [
     "CSS", "Tailwind", "Animation", "Frontend", "UI"
@@ -175,7 +175,7 @@ By modifying the `padding`, we can control the border thickness:
 
 ## Customizing the Gradient
 
-In Tailwind CSS, we can control the position of the gradient colors:
+In Tailwind CSS, we can control the position of the gradient colors and of course, the colors:
 
 - `from-*` → Starting color of the gradient.
 - `via-*` → Intermediate color.
@@ -185,7 +185,7 @@ We can also adjust the color positions, for example:
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-green-400 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-purple-400 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl bg-transparent">
     <p class="text-white text-center font-semibold">
@@ -198,11 +198,11 @@ We can also adjust the color positions, for example:
 ```
 
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-green-400 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-white to-white dark:from-black via-purple-400 dark:to-black from-30% to-60% animate-rotate-border rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl bg-transparent">
     <p class="text-white text-center font-semibold mt-8">
-      By adjusting the color positions we achieve a different effect
+      By adjusting the color positions we achieve a different effect with a different color
       <br />
       <code>from-30% to-60%</code>
     </p>
@@ -215,7 +215,7 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 
 ```html
 <div
-  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-green-200/20 via-green-400 to-green-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
+  class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-200/20 via-purple-400 to-purple-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
 >
   <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
     <p class="text-white text-center font-semibold">
@@ -226,7 +226,7 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 ```
 
  <div
-      class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-green-200/20 via-green-400 to-green-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
+      class="w-full max-w-lg bg-conic/[from_var(--border-angle)] from-purple-200/20 via-purple-400 to-purple-200/20 from-30% to-60% animate-rotate-border rounded-2xl p-px"
     >
       <div class="p-10 rounded-2xl dark:bg-zinc-900 bg-zinc-50">
         <p class="text-white text-center font-semibold mt-8">
@@ -237,4 +237,4 @@ I'll make some small adjustments, changing the from and to colors to achieve a m
 
 ## Conclusion
 
-I hope this guide has helped you understand how to create an animated border with Tailwind CSS and that you can implement it in your projects. Experiment with gradients and animations to get unique effects! 🎨✨ 
+The only limit is your imagination, you should now be able to experiment with gradients and animations to get unique effects! 🎨✨ 
