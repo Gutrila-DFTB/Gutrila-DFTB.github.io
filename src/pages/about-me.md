@@ -58,7 +58,7 @@ Here are some of the series between K-Dramas and Anime that completely caught my
 
 ## What's Next... 🚀
 
-But now, I’m ready for a new chapter, I’m eager to step into the world of web development and data—to build, to innovate, and to keep learning ✨. I know that the path ahead is full of challenges and unknowns; none of us can be certain what the future holds, yet, that uncertainty is what makes it exciting, one thing I’m sure of is that <a textGradient="**where there is a will, there is a way**" level={2}> With dedication, curiosity, and the passion that has guided me so far, I believe the next chapter will be even greater than the last. 🚀
+But now, I’m ready for a new chapter, I’m eager to step into the world of web development and data—to build, to innovate, and to keep learning ✨. I know that the path ahead is full of challenges and unknowns; none of us can be certain what the future holds, yet, that uncertainty is what makes it exciting, one thing I’m sure of is that **where there is a will, there is a way** With dedication, curiosity, and the passion that has guided me so far, I believe the next chapter will be even greater than the last. 🚀
 
 ## A Bit More About Me 💀
 
