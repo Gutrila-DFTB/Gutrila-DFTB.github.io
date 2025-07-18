@@ -50,17 +50,15 @@ Over time, I also developed a deep interest in Asian culture 🌸—especially J
 Here are some of the series between K-Dramas and Anime that completely caught my attention, each one explores different emotions and experiences, and I would definitely recommend them to anyone who wants to start exploring this amazing world.
 
 <div className="grid grid-cols-2 grid-rows-1 gap-4">
-    <a href="https://www.netflix.com/title/81517188" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden" rel="noopener noreferrer">Alquimia de Almas> <img src="/images/Alquimia.jpg"> </a>
-     <a href="https://www.youtube.com/watch?v=1q7YTgCgYEM&t " target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="/images/love.jpg"></img></a>
-    <a  href="https://www.youtube.com/watch?v=PYMEWsxiu5A&t" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden"><img src="/images/blackclover.png"></img></a>
-    <a href="https://www.youtube.com/watch?v=vbefk8HFEzc&t" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="/images/frieren.jpg"></img></a>
+    <a href="https://www.netflix.com/title/81517188" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden" rel="noopener noreferrer"> Alchemy of Souls <img src="/images/Alquimia.jpg"> </a>
+     <a href="https://www.netflix.com/title/80168068" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden" rel="noopener noreferrer"> Love Alarm <img src="/images/love.jpg"></img></a>
+    <a  href="https://www.crunchyroll.com/es/series/GRE50KV36/black-clover" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden" rel="noopener noreferrer"> Black Clover <img src="/images/blackclover.png"></img></a>
+    <a href="https://www.crunchyroll.com/es/series/GG5H5XQX4/frieren-beyond-journeys-end" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden" rel="noopener noreferrer"> Sōsō no Frieren <img src="/images/frieren.png"></img></a>
 </div>
 
 ## What's Next... 🚀
 
-In 2023, **Proyecto Tizayocan** was born, an initiative that seeks to apply technology to improve education, urban management, and connectivity in the municipality. This project is still in development, and we are gathering more collaborators to continue advancing.
-
-At the end of 2024, after years working in the city council as **_Software Development Coordinator_**, and seeing the technological deficiencies of some municipalities, **StellarGov** emerges, a web components framework with Tailwind to help developers of small governments create fast and quality websites.
+But now, I’m ready for a new chapter, I’m eager to step into the world of web development and data—to build, to innovate, and to keep learning ✨. I know that the path ahead is full of challenges and unknowns; none of us can be certain what the future holds, yet, that uncertainty is what makes it exciting, one thing I’m sure of is that <a textGradient="**where there is a will, there is a way**" level={2}> With dedication, curiosity, and the passion that has guided me so far, I believe the next chapter will be even greater than the last. 🚀
 
 ## A Bit More About Me 💀
 
