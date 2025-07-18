@@ -33,52 +33,27 @@ I’ve also always carried the idea of becoming a content creator or **streamer/
 - **<a href="https://www.youtube.com/watch?v=vUJ37Yw4BTs" target="_blank" rel="noopener noreferrer">Exportar e Importar Base de Datos En SqlServer</a>** | 2021
 - **<a href="https://www.youtube.com/watch?v=8zMMHcSKye8" target="_blank" rel="noopener noreferrer">OSU! S3RL feat Sara - Techno Kitty [Extreme]</a>** | 2021
 
-## Creating Impact with Technology 🌍
+## Languages and the reason behind 🧠
 
-<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/6MlhVoqGWlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+When it comes to languages, **Spanish** is my native language, but I also learned **English** thanks to the internet—through videos, music, games, and countless hours of online interaction, that knowledge has opened doors in many environments, allowing me to communicate effectively and even act as a translator between my Spanish‑speaking friends and other friends who don’t speak Spanish, it’s been incredibly rewarding to help bridge that gap and connect people 🌐.
 
-In 2020, with the COVID-19 pandemic, I observed the need in some local medical centers and decided, along with a group of friends including <a href="https://www.linkedin.com/in/mmayradiga/"  target="_blank" rel="noopener noreferrer">Mayra Diaz</a>, to contribute our grain of sand by printing and donating 3D face shields. Little by little, the project grew and more people joined. Thus was born <a href="https://sdgactionawards.org/homemakersmexico/"  target="_blank" rel="noopener noreferrer">Hope Makers México</a>.
+Over time, I also developed a deep interest in Asian culture 🌸—especially Japan, Korea, and Taiwan, to this day, I truly enjoy K‑dramas, Anime, and other media from those regions, baturally, after watching so much, some words and phrases stick with you, and I’ve already picked up bits of their languages, still, I’d love to focus on formally studying them 📚, since exploring new cultures and languages is something I find exciting and inspiring, in a tier list it wil be something like:
 
-In 2021, together with another great friend, Guillermo Mora, we created <a href="https://devs.tizayocan.com/"  target="_blank" rel="noopener noreferrer">Devs_Tiza</a>, a community for developers, designers, and technology enthusiasts. Our goal is to organize events, workshops, and mentoring to strengthen the local technology ecosystem.
+1. Japanese
+2. Korean
+3. Taiwanese
 
-## Sharing Knowledge 🧠
+> Would love to work and live in any of these countries.
 
-I've always liked **sharing my knowledge**. I often give small courses or mentoring to friends, students, or companies. When questions arise from them is when I learn the most, because sometimes these questions may seem simple and the answers are something we take for granted, but perhaps we don't fully understand why it is so. This pushes us to:
+### Some of My fav Series 🎬
 
-- Deepen our understanding of concepts
-- Understand them better
-- Transform them into something that can be taught clearly and practically
-
-> Grounding knowledge is, for me, the bridge between knowing and teaching.
-
-### Programming Mentoring 💻
-
-From 2021 to the present, I have closely guided more than 15 high school students in the programming career. Taking into account that they are starting their education, when they reach the point of understanding how web pages are made, they begin with the most basic:
-
-1. HTML
-2. CSS
-3. JavaScript (fundamentals)
-
-I have tried to teach them this in the way I would have liked to learn it at the time, obtaining excellent results, as concepts that weren't clear to them in school could be understood and applied following this different approach.
-
-### Educational Content on YouTube 📹
-
-Many of them were especially interested in frontend and wanted to better understand and master CSS. Therefore, I started creating small videos that I uploaded to my <a href="https://www.youtube.com/@efeeledev" target="_blank" rel="noopener noreferrer">YouTube channel</a> privately so they could consult them when needed.
-
-In 2024, I recorded some <a href="https://www.frontendmentor.io/" target="_blank" rel="noopener noreferrer">FrontEndMentor</a> challenges with better quality and published them on my channel. Currently, I share these resources with people I know who are interested in the topic and want to learn by watching how it's put into practice.
-
-Although there are few videos, I really enjoyed the process. Due to time limitations, I haven't been able to record more, as they require a lot of dedication, but I'm sure that **I'll soon be publishing new content**.
-
-### Some of My Videos 🎬
-
-Here I share some of those videos I've created to help others learn web development. Each one addresses different challenges and techniques that can be useful for those who are starting in the frontend world.
+Here are some of the series between K-Dramas and Anime that completely caught my attention, each one explores different emotions and experiences, and I would definitely recommend them to anyone who wants to start exploring this amazing world.
 
 <div className="grid grid-cols-2 grid-rows-1 gap-4">
-    <a href="https://www.youtube.com/watch?v=3c_I0z7zWA4" target="_blank" class="w-full aspect-video  rounded-lg overflow-hidden"> <img src="https://i.ytimg.com/vi/3c_I0z7zWA4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlyIf_1XClnSkZvhjsDHVO1fNpdw"> </a>
-     <a href="https://www.youtube.com/watch?v=1q7YTgCgYEM&t " target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/1q7YTgCgYEM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADBY3y6quLEnjFya4a1Goo6h5_2w"></img></a>
-    <a  href="https://www.youtube.com/watch?v=PYMEWsxiu5A&t" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/PYMEWsxiu5A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS2t0vxEufiWoxqwRRq8qIxRvICw"></img></a>
-    <a href="https://www.youtube.com/watch?v=vbefk8HFEzc&t" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/vbefk8HFEzc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaxgQ4OBeCsn-KMbJXaZK_wJh9GQ"></img></a>
+    <a href="https://www.netflix.com/title/81517188" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden" rel="noopener noreferrer">Alquimia de Almas> <img src="/images/Alquimia.jpg"> </a>
+     <a href="https://www.youtube.com/watch?v=1q7YTgCgYEM&t " target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="/images/love.jpg"></img></a>
+    <a  href="https://www.youtube.com/watch?v=PYMEWsxiu5A&t" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden"><img src="/images/blackclover.png"></img></a>
+    <a href="https://www.youtube.com/watch?v=vbefk8HFEzc&t" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="/images/frieren.jpg"></img></a>
 </div>
 
 ## What's Next... 🚀
