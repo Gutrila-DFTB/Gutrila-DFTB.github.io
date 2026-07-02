@@ -114,10 +114,6 @@ export const languages: Record<string, Language> = {
     name: "CurseForge",
     iconName: "curseforge-dark",
   },
-  MYSQL: {
-    name: "MySQL",
-    iconName: "mysql-wordmark-dark",
-  },
   playwright: {
     name: "PlayWright",
     iconName: "playwright",
@@ -126,11 +122,7 @@ export const languages: Record<string, Language> = {
     name: "Postman",
     iconName: "postman",
   },
-  Vercel: {
-    name: "Vercel",
-    iconName: "vercel_dark",
-  },
-  
+
 };
 
 export const getLanguage = (lang: string): Language => {

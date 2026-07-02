@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'AnimeWebsite'
 pubDate: 2025-04-05
 description: 'AnimeWebsite, it is a responsive website developed with my dev team.'
-languages: ["HTML5", "tailwind", "sass", "javascript", "css", "git", "angular", "curseforge-dark", "CurseForge"]
+languages: ["html", "tailwind", "sass", "javascript", "css", "git", "angular", "curseforge", "playwright"]
 image:
   url: "/images/Animewebsite.png"
   alt: "Thumbnail of Astro arches."
