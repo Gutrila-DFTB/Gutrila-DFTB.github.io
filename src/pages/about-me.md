@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/MarkdownAbout.astro
 title: "Daniel Tovar | My Portfolio 🚀| Gutrila"
-description: "Web developer, technology enthusiast, Engineer and Data Analyst. From my beginnings and ahead, here I share my journey, experiences, and learnings. 🚀☕"
+description: "Web developer, technology enthusiast, Engineer and Quality Data Analyst. From my beginnings and ahead, here I share my journey, experiences, and learnings. 🚀☕"
 author: "Daniel Tovar"
 image:
   url: "/images/PFP1.jpeg"
@@ -20,9 +20,9 @@ In 2015 as my interest grew, I realized that behind every immersive game or webs
 
 My educational journey has been built step by step, and it hasn’t been easy. I started as a **technical** student, later advanced to **technologist**, then earned my **professional** degree, and finally completed a **specialization in Big Data**, 6 long yers. There were many moments along the way where things felt incredibly challenging—late nights studying, balancing responsibilities, and pushing myself beyond my limits—but with dedication and effort, I achieved each milestone1
 
-On the professional side, I began my career as a regular advisor, however that was not enough for me, so, fter two years of hard work, learning every detail of the operation, and constantly seeking ways to improve, I got a promotion and decided to move into **Quality Assurance**, I felt strongly that working with processes, data, and metrics was something I was truly passionate about, and QA gave me the space to develop that analytical mindset.
+On the professional side, I began my career as a regular advisor at a Call Center, however that was not enough for me, so, after two years of hard work, learning every detail of the operation, and constantly seeking ways to improve, I got a promotion and decided to move into **Quality Data Analyst**, I felt strongly that working with processes, data, and metrics was something I was truly passionate about, and QA gave me the space to develop that analytical mindset.
 
-Although I had to set programming aside for a while in my day‑to‑day job, I’ve never given up on the goal of moving into a role where I can apply my love for development and technology at a **professional level**, each step I’ve taken—both in my studies and in my career—has shaped me, and I’m ready to keep growing, learning, and moving closer to that dream.
+Although I had to set programming aside for a while in my day‑to‑day job, I still developed my Python and SQL skills, as well as learned about ETL processes and much more, yet, I’ve never given up on the goal of moving into a role where I can apply my love for development and technology at a **professional level**, each step I’ve taken—both in my studies and in my career—has shaped me, and I’m ready to keep growing, learning, and moving closer to that dream.
 
 ## Content moderation and Possible Streamer 💡
 
@@ -58,11 +58,11 @@ Here are some of the series between K-Dramas and Anime that completely caught my
 
 ## What's Next... 🚀
 
-But now, I’m ready for a new chapter, I’m eager to step into the world of web development and data—to build, to innovate, and to keep learning ✨. I know that the path ahead is full of challenges and unknowns; none of us can be certain what the future holds, yet, that uncertainty is what makes it exciting, one thing I’m sure of is that **where there is a will, there is a way** With dedication, curiosity, and the passion that has guided me so far, I believe the next chapter will be even greater than the last. 🚀
+But now, I’m ready for a new chapter, I’m eager to dive into other web development options or data roles, to innovate, and to keep learning ✨. I know that the path ahead is full of challenges and unknowns; none of us can be certain what the future holds, yet, that uncertainty is what makes it exciting, one thing I’m sure of is that **where there is a will, there is a way** With dedication, curiosity, and the passion that has guided me so far, I believe the next chapter will be even greater than the last. 🚀
 
 ## A Bit More About Me 💀
 
-Today, in 2025, I’m excited to start working in a field related to my background **_System Engineer/Big Data Analyst/Web developer_** any of those would be an awesome first step. In the meantime, I’m still collaborating with my current team, and my passion for learning and enjoying the process just keeps growing. I love creating things, experimenting with new ideas, and embracing that _little spirit_ of learning, exploring, and occasionally causing a bit of chaos. At the end of the day, everything feels right as long as there’s music and video games around. 🎮🎶
+Today, in 2026, I’m excited to explre even further this field related to my background **_System Engineer/Big Data Analyst/Web developer_** any of those would be an awesome. In the meantime, I’m still collaborating with my current team, and my passion for learning and enjoying the process just keeps growing. I love creating things, experimenting with new ideas, and embracing that _little spirit_ of learning, exploring, and occasionally causing a bit of chaos. At the end of the day, everything feels right as long as there’s music and video games around. 🎮🎶
 
 Oh! And I’m an expert at creating memes. Seriously—whenever the occasion calls for one, I’ve got the perfect template ready. Bringing laughs and smiles everywhere, so if you ever need a meme, I’m your go‑to person! 🪄
 
