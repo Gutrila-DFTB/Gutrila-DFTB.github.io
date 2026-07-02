@@ -62,7 +62,7 @@ But now, I’m ready for a new chapter, I’m eager to dive into other web devel
 
 ## A Bit More About Me 💀
 
-Today, in 2026, I’m excited to explre even further this field related to my background **_System Engineer/Big Data Analyst/Web developer_** any of those would be an awesome. In the meantime, I’m still collaborating with my current team, and my passion for learning and enjoying the process just keeps growing. I love creating things, experimenting with new ideas, and embracing that _little spirit_ of learning, exploring, and occasionally causing a bit of chaos. At the end of the day, everything feels right as long as there’s music and video games around. 🎮🎶
+Today, in 2026, I’m excited to explore even further this field related to my background **_System Engineer/Big Data Analyst/Web developer_** any of those would be an awesome. In the meantime, I’m still collaborating with my current team, and my passion for learning and enjoying the process just keeps growing. I love creating things, experimenting with new ideas, and embracing that _little spirit_ of learning, exploring, and occasionally causing a bit of chaos. At the end of the day, everything feels right as long as there’s music and video games around. 🎮🎶
 
 Oh! And I’m an expert at creating memes. Seriously—whenever the occasion calls for one, I’ve got the perfect template ready. Bringing laughs and smiles everywhere, so if you ever need a meme, I’m your go‑to person! 🪄
 

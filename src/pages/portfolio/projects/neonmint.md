@@ -32,6 +32,7 @@ Developed with **HTML5** and styled with **TailwindCSS/SASS**, uploaded and hand
 - SASS
 - JavaScript
 - Git
+- PlayWright
 
 
 ## 🌐 Demo
